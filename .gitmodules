@@ -1,0 +1,6 @@
+[submodule "src/colabtools"]
+	path = src/colabtools
+	url = https://github.com/c-w-m/colabtools.git
+[submodule "src/pdsh"]
+	path = src/pdsh
+	url = https://github.com/c-w-m/pdsh.git
