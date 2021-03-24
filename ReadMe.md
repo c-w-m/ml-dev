@@ -22,6 +22,7 @@ $ git clone --recurse-submodules https://github.com/c-w-m/ml-dev.git
 ```shell
 # The following submodules were added:
 $ cd src
+$ git submodule add https://github.com/c-w-m/colab.git
 $ git submodule add https://github.com/c-w-m/colabtools.git
 $ git submodule add https://github.com/c-w-m/pdsh.git
 
