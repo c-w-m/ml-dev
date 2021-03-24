@@ -4,3 +4,6 @@
 [submodule "src/pdsh"]
 	path = src/pdsh
 	url = https://github.com/c-w-m/pdsh.git
+[submodule "src/pandas"]
+	path = src/pandas
+	url = https://github.com/c-w-m/pandas.git
